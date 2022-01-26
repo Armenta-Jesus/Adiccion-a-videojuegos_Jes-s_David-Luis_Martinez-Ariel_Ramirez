@@ -1,2 +1,4 @@
 .cuerpo{background-color: black; color: white;}
 .articulo{background-color: rgb(56, 55, 55);}
+.titulo{text-align: center;
+    font-size: 3rem;}
